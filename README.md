@@ -70,7 +70,7 @@ Related Codes:
 *Updated at 2024-02-18:*
 
 - Simulations of Common Unsupervised Domain Adaptation Algorithms for Image Classification [[arxiv](https://arxiv.org/abs/2502.10694)]
-  - Unsupervised domain adaptaiton for image classification
+  - Unsupervised domain adaptation for image classification
 
 - Semantics-aware Test-time Adaptation for 3D Human Pose Estimation [[arxiv](https://arxiv.org/abs/2502.10724)]
   - Test-time adaptation for3D human pose estimation
